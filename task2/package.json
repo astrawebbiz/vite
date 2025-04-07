@@ -1,0 +1,23 @@
+{
+  "name": "task2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "browserslist": "^4.24.4",
+    "lightningcss": "^1.29.3",
+    "sass": "^1.86.3",
+    "sharp": "^0.34.0",
+    "svgo": "^3.3.2",
+    "vite": "^6.2.0",
+    "vite-plugin-image-optimizer": "^1.1.8"
+  },
+  "dependencies": {
+    "vite-plugin-svg-spriter": "^1.0.0"
+  }
+}
